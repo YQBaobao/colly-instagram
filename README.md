@@ -1,5 +1,5 @@
 # colly-instagram
-利用colly下载instagram指定对象的拖欠与视频
+利用colly下载instagram指定对象的图片、视频
 
 前提：您已经能正常打开外网；
 
